@@ -2,7 +2,7 @@ import streamlit as st
 
 import SessionState
 
-st.markdown(
+st.info(
     "## Instructions\n"
     + "1. Type '2' into text input.\n"
     + "2. Press Enter.\n"
